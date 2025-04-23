@@ -4,7 +4,8 @@
 **EduGuard** is an AI-powered platform built on **Microsoft Azure** to predict and prevent student dropouts by identifying at-risk learners early and delivering personalized interventions. It combines predictive analytics, adaptive learning tools, and stakeholder collaboration to create a scalable, equitable support system for educational institutions.
 Note the admin/portal analytics dashboard and Agentic Ai deployed
 ---
-
+I created two repos for this solution you can refer to this <https://github.com/VernardCiti/Microsoft-AI-droput-prevention>
+for the journey of committing
 ## 🎯 Key Features
 
 ### 🔍 Predictive Risk Identification
