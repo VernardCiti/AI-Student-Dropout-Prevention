@@ -1,3 +1,4 @@
+![Agentic ai workflow](https://github.com/user-attachments/assets/9f412fc0-22ff-4e56-88ef-8f2038076cbe)
 # EduGuard: AI-Driven Dropout Prevention Platform on Microsoft Azure
 
 ## 📖 Overview
